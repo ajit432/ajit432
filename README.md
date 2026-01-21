@@ -15,14 +15,6 @@ Nice meeting you, I'm **Ajit Kumar Behera**!
 - 🐍 Work with **Python & Django** following clean and reusable coding practices
 
 ---
-
-### 🏢 Currently Working At
-- 💼 **Software Engineer** at **Key Software Services Pvt Ltd**
-- 🛠️ Working on enterprise-level **Employee Management Systems**
-- 📊 Developing HR modules like leave management, appraisal & policy systems
-
----
-
 ### 🛠️ Tech Stack
 
 **Frontend**
